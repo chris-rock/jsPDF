@@ -15,7 +15,6 @@
   "ignore": [
     "libs",
     "CNAME",
-    "jspdf.*",
     "todo.txt",
     "wscript.py",
     "build.sh",
