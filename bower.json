@@ -11,14 +11,5 @@
   "keywords": [
     "pdf"
   ],
-  "license": "MIT",
-  "ignore": [
-    "libs",
-    "CNAME",
-    "todo.txt",
-    "wscript.py",
-    "build.sh",
-    "test",
-    "tools"
-  ]
+  "license": "MIT"
 }
